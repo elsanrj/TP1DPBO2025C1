@@ -16,3 +16,17 @@ Beberapa masukkan _command_ di atas akan mengakses methods dalam class Petshop y
 
 # Dokumentasi C++
 ![CPP.1](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/Dokumentasi/1.png?raw=true)
+![CPP.2](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/Dokumentasi/2.png?raw=true)
+
+# Dokumentasi PHP
+![Java.1](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/Java/Dokumentasi/1.png?raw=true)
+![Java.2](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/Java/Dokumentasi/2.png?raw=true)
+
+# Dokumentasi Python
+![Python.1](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/Python/Dokumentasi/1.png?raw=true)
+
+# Dokumentasi PHP
+![PHP.1](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/PHP/Dokumentasi/1.png?raw=true)
+![PHP.2](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/PHP/Dokumentasi/2.png?raw=true)
+
+
