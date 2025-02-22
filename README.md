@@ -18,7 +18,7 @@ Beberapa masukkan _command_ di atas akan mengakses methods dalam class Petshop y
 ![CPP.1](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/Dokumentasi/1.png?raw=true)
 ![CPP.2](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/Dokumentasi/2.png?raw=true)
 
-# Dokumentasi PHP
+# Dokumentasi Java
 ![Java.1](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/Java/Dokumentasi/1.png?raw=true)
 ![Java.2](https://github.com/elsanrj/TP1DPBO2025C1/blob/main/Java/Dokumentasi/2.png?raw=true)
 
