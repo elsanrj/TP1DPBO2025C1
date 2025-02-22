@@ -13,3 +13,6 @@ User selanjutnya dapat memasukkan _command_ atau perintah manipulasi data yang t
 Proses ini dapat dihentikan dengan memasukkan _command_ [stop]
 
 Beberapa masukkan _command_ di atas akan mengakses methods dalam class Petshop yang menjalankan tugas sesuai namanya
+
+# Dokumentasi C++
+![alt text](https://github.com/elsanrj/TP1DPBO2025C1/blob/Dokumentasi/1.png?raw=true)
